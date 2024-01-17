@@ -57,4 +57,10 @@ This project is licensed under the [CCtech](LICENSE).
 
 ## Output
 
+![1](https://github.com/Coderanildangi/Inventor_API/assets/149321466/ce02ffe7-70bf-4474-a405-41b8bec042b4)
+
+![2](https://github.com/Coderanildangi/Inventor_API/assets/149321466/d3746898-8cac-45a6-8daa-0eaf319c522a)
+
+
+
 
